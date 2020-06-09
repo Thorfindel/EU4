@@ -1,0 +1,8 @@
+name = "Rule Britannia Music Pack"
+archive = "dlc/dlc089_rule_britannia_music_pack/dlc089.zip"
+steam_id = "760070"
+pops_id = "eu4_dlc089_rule_britannia_music_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "09bc3c47a71a3b7fc571f650278e6b5a"
+category = "music"

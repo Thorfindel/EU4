@@ -1,0 +1,8 @@
+name = "Art of War"
+archive = "dlc/dlc027_art_of_war/dlc027.zip"
+steam_id = "310031"
+pops_id = "eu4_dlc027_art_of_war"
+affects_checksum = no
+affects_compatability = yes
+checksum = "5ef000d74abd9c779a9b5066f7e7bd35"
+category = "expansion"

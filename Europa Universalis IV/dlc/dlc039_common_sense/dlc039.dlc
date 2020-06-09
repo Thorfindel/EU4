@@ -1,0 +1,8 @@
+name = "Common Sense"
+archive = "dlc/dlc039_common_sense/dlc039.zip"
+steam_id = "338163"
+pops_id = "eu4_dlc039_common_sense"
+affects_checksum = no
+affects_compatability = yes
+checksum = "fdf32459f1dddd85cc8f6a59426b1a9f"
+category = "expansion"

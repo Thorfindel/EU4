@@ -1,0 +1,8 @@
+name = "Rule Britannia"
+archive = "dlc/dlc084_rule_britannia/dlc084.zip"
+steam_id = "760070"
+pops_id = "eu4_dlc084_rule_britannia"
+category = "expansion"
+affects_checksum = no
+affects_compatability = yes
+checksum = "3590390dc31a3b83423cdbe75a7c3171"

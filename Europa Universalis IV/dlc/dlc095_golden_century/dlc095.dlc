@@ -1,0 +1,8 @@
+name = "Golden Century"
+archive = "dlc/dlc095_golden_century/dlc095.zip"
+steam_id = "960920"
+pops_id = "eu4_dlc095_golden_century"
+affects_checksum = no
+affects_compatability = yes
+checksum = "bcae53b7d043d3289cd54b6623cbea55"
+category = "expansion"

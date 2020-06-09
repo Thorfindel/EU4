@@ -1,0 +1,8 @@
+name = "Italian Unit Pack"
+archive = "dlc/dlc056_italian_unit_pack/dlc056.zip"
+steam_id = "436121"
+pops_id = "eu4_dlc056_italian_unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "79ac3f89d2ed51fff29b82282d0fb8a3"
+category = "unit_pack"

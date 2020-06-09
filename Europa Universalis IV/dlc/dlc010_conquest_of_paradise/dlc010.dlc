@@ -1,0 +1,8 @@
+name = "Conquest of Paradise"
+archive = "dlc/dlc010_conquest_of_paradise/dlc010.zip"
+steam_id = "241369"
+pops_id = "eu4_dlc010_conquest_of_paradise"
+affects_checksum = no
+checksum = "3c6c63c5fb1f15e804b050d34e8494da"
+affects_compatability = yes
+category = "expansion"

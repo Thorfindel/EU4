@@ -1,0 +1,8 @@
+name = "Wealth of Nations"
+archive = "dlc/dlc018_wealth_of_nations/dlc018.zip"
+steam_id = "279620"
+pops_id = "eu4_dlc018_wealth_of_nations"
+affects_checksum = no
+affects_compatability = yes
+checksum = "5bb36ddc2aa17164be81501e94e8e3d1"
+category = "expansion"

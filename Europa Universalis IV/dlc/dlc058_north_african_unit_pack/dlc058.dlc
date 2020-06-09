@@ -1,0 +1,8 @@
+name = "North African Unit Pack"
+archive = "dlc/dlc058_north_african_unit_pack/dlc058.zip"
+steam_id = "436121"
+pops_id = "eu4_dlc058_north_african_unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "57a541b930958d97441b883dedaaadc9"
+category = "unit_pack"

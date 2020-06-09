@@ -1,0 +1,8 @@
+name = "Star and Crescent"
+archive = "dlc/dlc004_star_and_crescent/dlc004.zip"
+steam_id = "241363"
+pops_id = "eu4_dlc004_star_and_crescent"
+affects_checksum = no
+affects_compatability = no
+checksum = "849baaed2f2ba03541f48eac8d7c5410"
+category = "content_pack"

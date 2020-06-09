@@ -1,0 +1,8 @@
+name = "Theocracies Unit Pack"
+archive = "dlc/dlc040_theocracies_unit_pack/dlc040.zip"
+steam_id = "373150"
+pops_id = "eu4_dlc040_theocracies_unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "18f1049bd7c6dbccb369e2f49b87061c"
+category = "unit_pack"

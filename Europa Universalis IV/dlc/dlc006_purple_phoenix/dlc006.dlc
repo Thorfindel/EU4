@@ -1,0 +1,8 @@
+name = "Purple Phoenix"
+archive = "dlc/dlc006_purple_phoenix/dlc006.zip"
+steam_id = "241365"
+pops_id = "eu4_dlc006_purple_phoenix"
+affects_compatability = no
+affects_checksum = no
+checksum = "f027bdfb619a1522c5b34282fe9c27b8"
+category = "content_pack"

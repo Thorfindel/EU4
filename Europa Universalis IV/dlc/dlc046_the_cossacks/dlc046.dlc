@@ -1,0 +1,8 @@
+name = "The Cossacks"
+archive = "dlc/dlc046_the_cossacks/dlc046.zip"
+steam_id = "373370"
+pops_id = "eu4_dlc046_the_cossacks"
+affects_checksum = no
+affects_compatability = yes
+checksum = "c97c21a221c12d365048d8b4f7cefcfc"
+category = "expansion"

@@ -1,0 +1,8 @@
+name = "Golden Century Music Pack"
+archive = "dlc/dlc099_golden_century_music/dlc099.zip"
+steam_id = "960920"
+pops_id = "eu4_dlc099_golden_century_music"
+affects_checksum = no
+affects_compatability = no
+checksum = "60be060aa5b9bf957f1950d1f5f5ac42"
+category= "music"

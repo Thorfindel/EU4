@@ -1,0 +1,8 @@
+name = "Evangelical Union Unit Pack"
+archive = "dlc/dlc028_evangelical_union_unit_pack/dlc028.zip"
+steam_id = "310032"
+pops_id = "eu4_dlc028_evangelical_union_unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "ad54df366ddd2d3f962e9439dfe6365a"
+category = "unit_pack"

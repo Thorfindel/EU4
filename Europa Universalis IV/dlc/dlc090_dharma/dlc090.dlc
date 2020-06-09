@@ -1,0 +1,8 @@
+name = "Dharma"
+archive = "dlc/dlc090_dharma/dlc090.zip"
+steam_id = "827240"
+pops_id = "eu4_dlc090_dharma"
+affects_checksum = no
+affects_compatability = yes
+checksum = "8a68b9a3b1097e63648af768d6aa20bc"
+category = "expansion"

@@ -1,0 +1,8 @@
+name = "Golden Century - Iberian Ship Pack"
+archive = "dlc/dlc096_golden_century_iberian_ship_pack/dlc096.zip"
+steam_id = "960920"
+pops_id = "eu4_dlc096_golden_century_iberian_ship_pack"
+category = "unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "7981a4c2a2502a74abe477c6cef0da87"

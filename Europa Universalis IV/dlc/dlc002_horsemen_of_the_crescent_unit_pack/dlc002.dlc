@@ -1,0 +1,8 @@
+name = "Horsemen of the Crescent Unit Pack"
+archive = "dlc/dlc002_horsemen_of_the_crescent_unit_pack/dlc002.zip"
+steam_id = "241361"
+pops_id = "eu4_dlc002_horsemen_of_the_crescent_unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "172259f7dd0df8dc4548060dac786480"
+category = "unit_pack"

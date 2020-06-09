@@ -1,0 +1,8 @@
+name = "Mandate of Heaven"
+archive = "dlc/dlc066_mandate_of_heaven/dlc066.zip"
+steam_id = "538020"
+pops_id = "eu4_dlc066_mandate_of_heaven"
+category = expansion
+affects_checksum = no
+affects_compatability = yes
+checksum = "44fb5852a9c800a633b15666f2d89220"

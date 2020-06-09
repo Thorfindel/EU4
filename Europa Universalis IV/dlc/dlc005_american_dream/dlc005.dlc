@@ -1,0 +1,8 @@
+name = "American Dream"
+archive = "dlc/dlc005_american_dream/dlc005.zip"
+steam_id = "241364"
+pops_id = "eu4_dlc005_american_dream"
+affects_compatability = no
+affects_checksum = no
+checksum = "eb41c14ee24d624413d2bdb42f09b7de"
+category = "content_pack"

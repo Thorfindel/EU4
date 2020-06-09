@@ -1,0 +1,8 @@
+name = "Conquistadors Unit Pack"
+archive = "dlc/dlc011_conquistadors_unit_pack/dlc011.zip"
+steam_id = "241370"
+pops_id = "eu4_dlc011_conquistadors_unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "a306b117c24c90b9cdc674ee712e969d"
+category = "unit_pack"

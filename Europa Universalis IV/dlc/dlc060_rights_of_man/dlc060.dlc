@@ -1,0 +1,8 @@
+name = "Rights of Man"
+archive = "dlc/dlc060_rights_of_man/dlc060.zip"
+steam_id = "486570"
+pops_id = "eu4_dlc060_rights_of_man"
+affects_checksum = no
+affects_compatability = yes
+category = expansion
+checksum = "53eb5edfa40414578a207f4130a06b22"

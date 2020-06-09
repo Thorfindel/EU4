@@ -1,0 +1,8 @@
+name = "Eastern Ireland Unit Pack"
+archive = "dlc/dlc086_eastern_ireland_unit_pack/dlc086.zip"
+steam_id = "760070"
+pops_id = "eu4_dlc086_eastern_ireland_unit_pack"
+category = "unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "154706edd4170abc28dfb6bb8b81b3f7"

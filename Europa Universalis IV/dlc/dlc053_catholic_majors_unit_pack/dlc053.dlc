@@ -1,0 +1,8 @@
+name = "Catholic Majors Unit Pack"
+archive = "dlc/dlc053_catholic_majors_unit_pack/dlc053.zip"
+steam_id = "414301"
+pops_id = "eu4_dlc053_catholic_majors_unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "b04922169a8898824db9cca64f138422"
+category = "unit_pack"

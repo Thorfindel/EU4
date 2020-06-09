@@ -1,0 +1,8 @@
+name = "Russian Borders Unit Pack"
+archive = "dlc/dlc074_russian_borders_unit_pack/dlc074.zip"
+steam_id = "625050"
+pops_id = "eu4_dlc074_russian_borders_unit_pack"
+category = "unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "ecfc6276777fd3248f4ebb8f17d1eaf8"

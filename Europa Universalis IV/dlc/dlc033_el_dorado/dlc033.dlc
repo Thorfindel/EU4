@@ -1,0 +1,8 @@
+name = "El Dorado"
+archive = "dlc/dlc033_el_dorado/dlc033.zip"
+steam_id = "338160"
+pops_id = "eu4_dlc033_el_dorado"
+affects_checksum = no
+affects_compatability = yes
+checksum = "3510e103c8966362541967f407bd45c6"
+category = "expansion"

@@ -1,0 +1,8 @@
+name = "Native Americans Unit Pack"
+archive = "dlc/dlc012_native_americans_unit_pack/dlc012.zip"
+steam_id = "241371"
+pops_id = "eu4_dlc012_native_americans_unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "aac2c371f3f87fce3a0c6fdfe0797dfa"
+category = "unit_pack"

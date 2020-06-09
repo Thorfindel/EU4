@@ -1,0 +1,8 @@
+name = "Cradle of Civilization"
+archive = "dlc/dlc077_cradle_of_civilization/dlc077.zip"
+steam_id = "721340"
+pops_id = "eu4_dlc077_cradle_of_civilization"
+category = "expansion"
+affects_checksum = no
+affects_compatability = yes
+checksum = "215a21663b663acb4149649f14128ac7"
