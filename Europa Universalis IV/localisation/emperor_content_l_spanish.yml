@@ -3369,6 +3369,7 @@
  imperial_ban_fallback_tt:0 "Toda provincia no núcleo es posesión de §Y[Root.GetName]§!."
  EST_VAL_HEATHEN_PEACE_LOYALTY:0 "No en guerra con infieles: §G$VAL$§!"
  emperor_trying_to_avert_shadow_kingdom_tt:0 "El Emperador ha decidido formalmente refrenar Italia"
+ opinion_left_hre:0 "Dejó el Imperio"
  
 
 # === [LocEditor:OrphanedKeys] Keys that do not exist in English ===

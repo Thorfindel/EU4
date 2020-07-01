@@ -1262,7 +1262,7 @@
  estate_cossacks_exploration_expedition_mod:0 "Explorations cosaques"
  desc_estate_cossacks_exploration_expedition_mod:0 "Afin d'accélérer le peuplement et le développement de la province de [Root.GetName], [Root.Owner.GetLeLaNP] [Root.Owner.GetName] tir[Root.Owner.GetEEntNP] tout le parti possible de l'instinct de pionnier des cosaques."
  decision_once_every_twenty_years:0 "Cette décision ne peut être prise que tous les §Y20§! ans."
- estate_cossacks_exploration_expedition_effect_tooltip:0 "Coût du développement local dans toutes les provinces de steppe : §G-30%§!"
+ estate_cossacks_exploration_expedition_effect_tooltip:1 "Coût du développement local dans toutes les provinces de steppe : §G-15%§!"
  estate_cossacks_exploration_expedition_mod_revoke_tooltip:0 "Retire §YExplorations cosaques§! de toutes les provinces de steppe."
  estate_burghers_exclusive_trade_rights_enact_tooltip:2 "Autonomie locale : §R+20§! ; coût de dév. des carrefours commerciaux du nœud de §Y[This.GetTradeNodeName]§! : §G-15%§!"
  estate_burghers_exclusive_trade_rights_revoke_tooltip:0 "Retire §YDroits commerciaux exclusifs§! à toutes les provinces possédées."

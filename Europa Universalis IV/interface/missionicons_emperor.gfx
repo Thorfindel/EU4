@@ -562,7 +562,7 @@ spriteTypes = {
 		}
 	
 		spriteType = {
-			name = "humiliate_austria"
+			name = "boh_humiliate_austria"
 			texturefile = "gfx/interface/missions/dlc_missions/emperor/bohemia/humiliate_austria.dds"
 		}
 	
@@ -1111,7 +1111,7 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "renaissance_city"
+		name = "mlo_renaissance_city"
 		texturefile = "gfx/interface/missions/dlc_missions/emperor/milan2/renaissance_city.dds"
 	}
 
@@ -1215,7 +1215,7 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "union_with_naples"
+		name = "sav_union_with_naples"
 		texturefile = "gfx/interface/missions/dlc_missions/emperor/savoy/union_with_naples.dds"
 	}
 

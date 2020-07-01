@@ -4503,7 +4503,7 @@
  UW_ATTACH_TO:0 "Attach to always follow $NAME$."
  UW_DETACH_FROM:0 "Detach from following $NAME$."
  UNIT_DETACH:0 "§YDetach§!"
- UNIT_ATTACH:0 "§YAttach§!"
+ UNIT_ATTACH:1 "§YAttach§!\nHold §YShift§! to attach to any available unit on same province."
  DIPRELCH_STRAINED_UNION:0 "Cultural differences in Union"
  ottoman_eastern_carabinier:0 "Eastern Carabinier"
  ottoman_eastern_carabinierDESCR:0 "In essence a mounted foot soldier carrying a short musket or rifle also known as a carbine. Their ability to dismount and fight on foot allowed them great flexibility in the battle."

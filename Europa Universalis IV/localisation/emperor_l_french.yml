@@ -1067,5 +1067,7 @@
  mechanic_revolutionary_client_state_yes:0 "Permet de créer des États clients révolutionnaires"
  emperor_landfriede:0 "Ewiger Landfriede"
  ESTATE_NOT_ENOUGH_CROWNLAND:0 "Trop faible contrôle des terres par l'État"
- EXPAND_EMPIRE_CB:0 "Permet le casus belli Extension du Saint-Empire"
  EXPAND_EMPIRE_CB:0 "Offre un casus belli contre les pays non membres mais limitrophes de l'Empire, pour les contraindre à l'intégrer."
+ force_peasant_republic_desc:0 "[From.GetName] deviendra une république paysanne."
+ CB_ALLOWED_force_peasant_republic:0 "Imposer un Gouverment Paysan"
+ PEACE_force_peasant_republic:0 "Imposer un Gouverment Paysan"

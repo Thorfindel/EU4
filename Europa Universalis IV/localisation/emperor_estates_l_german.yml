@@ -1262,7 +1262,7 @@
  estate_cossacks_exploration_expedition_mod:0 "Kosaken-Erforschung"
  desc_estate_cossacks_exploration_expedition_mod:0 "Wir machen uns die Pionierinstinkte der Kosaken zunutze, um die Besiedlung und das Wachstum dieser Region zu beschleunigen."
  decision_once_every_twenty_years:0 "Diese Entscheidung kann nur alle §Y20§! Jahre benutzt werden."
- estate_cossacks_exploration_expedition_effect_tooltip:0 "§G-30%§! lokale Entwicklungskosten in allen Steppenprovinzen"
+ estate_cossacks_exploration_expedition_effect_tooltip:1 "§G-15%§! lokale Entwicklungskosten in allen Steppenprovinzen"
  estate_cossacks_exploration_expedition_mod_revoke_tooltip:0 "Entfernt den Modifikator §YKosaken-Erforschung§! aus allen im Besitz befindlichen Steppenprovinzen."
  estate_burghers_exclusive_trade_rights_enact_tooltip:2 "Fügt allen Handelszentren im Umschlagplatz §Y[This.GetTradeNodeName]§! §R20§! Autonomie (Lokal) und §G-15%§! Entwicklungskosten (Lokal) hinzu."
  estate_burghers_exclusive_trade_rights_revoke_tooltip:0 "Entfernt den Modifikator "Exklusive Handelsrechte" aus allen im Besitz befindlichen Provinzen."

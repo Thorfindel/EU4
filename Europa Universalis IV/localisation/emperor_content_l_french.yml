@@ -3434,3 +3434,4 @@
  imperial_ban_fallback_tt:0 "Toute province légitime est possédée par [Root.GetLeLaNP] §Y[Root.GetName]§!."
  EST_VAL_HEATHEN_PEACE_LOYALTY:0 "En paix avec les païens : $VAL|G$"
  emperor_trying_to_avert_shadow_kingdom_tt:0 "L'[Emperor.GetEmpereurImperatriceDir] a officiellement annoncé vouloir reprendre le contrôle de l'Italie."
+ opinion_left_hre:0 "A quitté l'Empire"

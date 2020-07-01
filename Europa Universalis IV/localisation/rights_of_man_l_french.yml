@@ -1589,7 +1589,7 @@
  alert_pick_church_aspect_instant:1 "§YUne $ASPECT_LONG$ peut être choisie§!"
  alert_pick_church_aspect_delayed:1 "Nous disposons de suffisamment de §Ypuissance cléricale§! pour adopter une $ASPECT_LONG|Y$."
  CONTINUE_FAILED_TITLE:0 "Impossible de relancer!"
- CONTINUE_FAILED_DESC:0 "La relance de la dernière sauvegarde n'a pas fonctionné. Cela peut s'expliquer :\n* si la sauvegarde est corrompue ;\n* si la sauvegarde nécessite un DLC qui n'est pas activé ;\n* si la sauvegarde ne fonctionne pas avec la version actuelle du jeu ;\n* si la sauvegarde est en mode Iron Man alors que le jeu est moddé, ce qui empêche les succès Steam."
+ CONTINUE_FAILED_DESC:0 "La relance de la dernière sauvegarde n'a pas fonctionné. Cela peut s'expliquer :\n– si la sauvegarde est corrompue ;\n– si la sauvegarde nécessite un DLC qui n'est pas activé ;\n– si la sauvegarde ne fonctionne pas avec la version actuelle du jeu ;\n– si la sauvegarde est en mode Iron Man alors que le jeu est moddé, ce qui empêche les d'obtenir des succès."
  CULT_HELP_DESC:0 "De nouveaux cultes peuvent apparaître si nous sommes frontaliers de pays fétichistes ayant adopté ces cultes ou entretenons des relations avec des pays d'autres religions."
  ND_RANDOM_PERSONALITY:0 "Personnalité aléatoire"
  ND_RANDOM_PERSONALITY_DESC:0 "Une personnalité va être déterminée aléatoirement au lancement de la partie."

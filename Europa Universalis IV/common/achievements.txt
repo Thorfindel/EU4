@@ -4500,7 +4500,7 @@ achievement_all_your_trade_are_belong_to_us = {
 		1269 = { #English Channel
 			is_strongest_trade_power = ROOT
 		}
-		1297 = { # Genoa
+		1298 = { # Genoa
 			is_strongest_trade_power = ROOT
 		}
 		1308 = { # Venice

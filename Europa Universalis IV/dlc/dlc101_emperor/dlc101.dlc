@@ -1,0 +1,8 @@
+name = "Emperor"
+archive = "dlc/dlc101_emperor/dlc101.zip"
+steam_id = "1259360"
+pops_id = "eu4_dlc101_emperor"
+affects_checksum = yes
+affects_compatability = yes
+checksum = "d81ec523ff9b6fd0ee357e45de1f4b3a"
+category = "expansion"

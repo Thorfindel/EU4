@@ -1262,7 +1262,7 @@
  estate_cossacks_exploration_expedition_mod:0 "Exploración cosaca"
  desc_estate_cossacks_exploration_expedition_mod:0 "Estamos aprovechando los instintos aventureros de los cosacos para acelerar el asentamiento y el crecimiento de este área."
  decision_once_every_twenty_years:0 "Esta decisión solo se puede tomar cada §Y20§! años."
- estate_cossacks_exploration_expedition_effect_tooltip:0 "§G-30%§! coste del desarrollo local en todas las provincias de estepa"
+ estate_cossacks_exploration_expedition_effect_tooltip:1 "§G-15%§! coste del desarrollo local en todas las provincias de estepa"
  estate_cossacks_exploration_expedition_mod_revoke_tooltip:0 "Quita §Yexploración cosaca§! de todas las provincias poseídas de estepa."
  estate_burghers_exclusive_trade_rights_enact_tooltip:0 "Autonomía local §R+20§! coste desarrollo local §G-15%§! en centros de comercio del nodo de §Y[This.GetTradeNodeName]§!."
  estate_burghers_exclusive_trade_rights_revoke_tooltip:0 "Quita el modificador «Derechos comerciales exclusivos» de todas las provincias poseídas"
