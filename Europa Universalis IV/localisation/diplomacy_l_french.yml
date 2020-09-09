@@ -892,3 +892,5 @@
  CLAIMSTATETITLE:0 "Revendiquer une contrée"
  CLAIMSTATETITLEDESC:0 "Fabrique une revendication sur toutes les provinces d'une contrée."
  CLAIM_STATE_SELECT_DESC:1 "Fabriquer une revendication sur une contrée nous permet de disposer d'une revendication sur chaque province $ADJ$ en $AREA|Y$, valable $YEARS|Y$ ans, au prix d'une réduction de notre réseau d'espionnage dans ce pays de $COST|R$."
+ CURIA_BUY_INDULGENCE_AT_WAR:0 "§RVous menez actuellement une guerre pour votre excommunication.§!"
+ 

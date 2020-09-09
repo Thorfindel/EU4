@@ -8,7 +8,7 @@
     "gameDataPath": "%USER_DOCUMENTS%/Paradox Interactive/Europa Universalis IV",
     "gameId": "eu4",
     "ingameSettingsLayoutPath": "settings-layout.json",
-    "rawVersion": "1.30.3",
+    "rawVersion": "1.30.4",
     "themeFile": "launcher-assets/theme-settings.json",
-    "version": "EU4 v1.30.3.0 Austria.e77eb54244 (8406)"
+    "version": "EU4 v1.30.4.0 Austria.d8f56f98ec (5d62)"
 }

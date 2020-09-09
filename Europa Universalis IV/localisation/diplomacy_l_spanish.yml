@@ -925,3 +925,5 @@
  CALL_PROTECTORATES:0 "Llamar a los protectorados"
  VASSALCANCELDESC_HORDE:0 "¿Deseas cancelar nuestro vasallazgo con $COUNTRY$? \nNuestro pueblo estará muy disgustado y a $COUNTRY$ le preocupará que ya no les protejamos.\nTambién perderemos cualquier núcleo y reclamaciones que tengamos en su provincias."
  BUILDSPYNETWORK_LONG_DESC:0 "¿Enviar un diplomático para construir nuestra red de espías e informadores en $COUNTRY|Y$? Aumentará el tamaño de nuestra red de espionaje en $AMT|G$ cada mes.\n\nMientras que nuestro agente esté activo y la red de espionaje sea mayor de §Y25§!, existe un riesgo de §R$RISK$%§! al mes de que ser descubiertos. Si se descubre, dañará las relaciones con el país objetivo, reducirá el tamaño de nuestra red y durante un tiempo nos impedirá crecer más."
+ CURIA_BUY_INDULGENCE_AT_WAR:0 "§RActualmente está librando una guerra por su excomunión.§!"
+ 
